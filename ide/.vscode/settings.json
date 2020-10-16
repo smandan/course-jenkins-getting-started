@@ -7,7 +7,7 @@
     }
   },
   "jenkins-runner.hostConfigs": {
-    "pipelines-7080": {
+    "pipelines-8080": {
       "url": "http://jenkins:8080",
       "user": "mandas1",
       "password": "Na$$0720",
